@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "product": "Produkt",
+    "projects": "Projekty",
+    "team": "Zesp\u00f3\u0142",
+    "contact": "Kontakt",
+    "invest": "Inwestuj"
+  },
+  "hero": {
+    "tagline": "Digital Legacy as a Service",
+    "headline": "Zachowujemy wspomnienia, kt\u00f3re maj\u0105 znaczenie.",
+    "subheadline": "Platforma AI, kt\u00f3ra zmienia spos\u00f3b, w jaki upami\u0119tniamy bliskich. Fizyczne klucze pami\u0119ci, awatary g\u0142osowe i cyfrowe testamenty dla rynku us\u0142ug pogrzebowych wartego $130 mld.",
+    "cta_primary": "Deck Inwestorski",
+    "cta_secondary": "Um\u00f3w rozmow\u0119"
+  },
+  "stats": {
+    "loi": "19",
+    "loi_label": "List\u00f3w intencyjnych",
+    "market": "$130 mld",
+    "market_label": "Globalny rynek",
+    "partners": "14+",
+    "partners_label": "Partner\u00f3w B2B2C",
+    "patents": "2",
+    "patents_label": "Zg\u0142oszenia patentowe"
+  },
+  "product": {
+    "title": "Platforma",
+    "subtitle": "Kompletny ekosystem do zachowywania i do\u015bwiadczania cyfrowego dziedzictwa",
+    "memory_key_title": "Fizyczny klucz pami\u0119ci (XQR-MEM\u2122)",
+    "memory_key_desc": "Premiumowe urz\u0105dzenie z kodem QR \u0142\u0105cz\u0105ce \u015bwiat fizyczny z cyfrowym. Umieszczane na nagrobkach, urnach lub przechowywane jako osobista pami\u0105tka. Jedno skanowanie otwiera \u017cywe wspomnienie.",
+    "ai_avatar_title": "Awatary g\u0142osowe AI",
+    "ai_avatar_desc": "Konwersacyjna AI odtwarzaj\u0105ca g\u0142os i osobowo\u015b\u0107 bliskich. Zbudowana na architekturze RAG, zapewniaj\u0105cej wierno\u015b\u0107 prawdziwym wspomnieniom \u2014 bez halucynacji.",
+    "family_council_title": "Rada Rodzinna",
+    "family_council_desc": "Wieloosobowe zarz\u0105dzanie cyfrowym dziedzictwem. Cz\u0142onkowie rodziny wsp\u00f3lnie zarz\u0105dzaj\u0105, kuratoruj\u0105 i chroni\u0105 wsp\u00f3lne wspomnienia z precyzyjn\u0105 kontrol\u0105 dost\u0119pu.",
+    "testament_title": "Cyfrowy Testament",
+    "testament_desc": "Prawnie umocowany cyfrowy testament dla Twojej obecno\u015bci online. Okre\u015bl, co stanie si\u0119 z Twoimi wspomnieniami, kontami i cyfrowymi zasobami po Twoim odej\u015bciu."
+  },
+  "avatar_section": {
+    "title": "Porozmawiaj z tymi, kt\u00f3rzy s\u0105 wa\u017cni",
+    "subtitle": "Awatary g\u0142osowe AI zachowuj\u0105ce istot\u0119 rozmowy. Ka\u017cda interakcja zakorzeniona w prawdziwych wspomnieniach."
+  },
+  "projects": {
+    "title": "Co budujemy",
+    "subtitle": "Wiele strumieni przychod\u00f3w w segmentach B2B2C, B2G i VIP",
+    "b2b2c_title": "Platforma B2B2C",
+    "b2b2c_desc": "Integracja white-label z domami pogrzebowymi. Model 20% revenue share. Ju\u017c podpisane 14 LOI z partnerami w Polsce.",
+    "b2g_title": "Digitalizacja dziedzictwa B2G",
+    "b2g_desc": "Partnerstwa z samorz\u0105dami w zakresie ochrony dziedzictwa kulturowego. 4 LOI B2G, w tym Promenada Gwiazd w Mi\u0119dzyzdrojach \u2014 digitalizacja 200+ pami\u0105tek celebryt\u00f3w.",
+    "vip_title": "Program VIP Ambassador",
+    "vip_desc": "Partnerstwa z celebrytami i osobami publicznymi. Pierwsza potwierdzona ambasadorka: Orina Krajewska, aktorka i c\u00f3rka legendarnej Ma\u0142gorzaty Braunek. Kolejni VIP-owie w zaawansowanych rozmowach.",
+    "prototype_title": "Dzia\u0142aj\u0105cy prototyp",
+    "prototype_desc": "W pe\u0142ni funkcjonalny prototyp AI. Silnik konwersacyjny oparty na RAG, synteza g\u0142osu i integracja z kluczem fizycznym zademonstrowane inwestorom i partnerom."
+  },
+  "team": {
+    "title": "Za\u0142o\u017cyciele",
+    "subtitle": "Do\u015bwiadczeni operatorzy i budowniczowie z g\u0142\u0119bok\u0105 ekspertyz\u0105 domenow\u0105",
+    "greg_name": "Grzegorz Ociepka",
+    "greg_role": "Founder & CEO",
+    "greg_bio": "By\u0142y CTO i Co-COO Simteract S.A. (sp\u00f3\u0142ka gie\u0142dowa, 2x \u20ac12M przychodu, 70+ pracownik\u00f3w). Zbudowa\u0142 i sprzeda\u0142 Coddee przez M&A. Ekspert AI/ML, platform SaaS i Big Data. Architekt produktu i strategii GTM Aurora Memories.",
+    "wojciech_name": "Wojciech Dani\u0142o",
+    "wojciech_role": "Founder & CTO",
+    "wojciech_bio": "Za\u0142o\u017cyciel ENSO Inc. \u2014 j\u0119zyk programowania nowej generacji wspierany przez VC. \u015awiatowej klasy architekt techniczny specjalizuj\u0105cy si\u0119 w infrastrukturze AI/ML, projektowaniu system\u00f3w i in\u017cynierii platform.",
+    "gosia_name": "Ma\u0142gorzata Spies",
+    "gosia_role": "Founder & COO/CFO",
+    "gosia_bio": "Wieloletnie do\u015bwiadczenie w finansach i doradztwie podatkowym na rynkach PL/DACH. Ekspertka w zarz\u0105dzaniu projektami na du\u017c\u0105 skal\u0119, operacjach, zgodno\u015bci regulacyjnej (RODO, AI Act, IP) i strategicznym planowaniu finansowym.",
+    "andrzej_name": "Andrzej Duda",
+    "andrzej_role": "Founder & CMO/Head of Sales",
+    "andrzej_bio": "26 lat w polskich mediach (Discovery, czo\u0142owe programy TV). Cz\u0142onek SFP. Osi\u0105gn\u0105\u0142 90% konwersj\u0119 LOI. Prowadzi program VIP, partnerstwa ko\u015bcielne i strategiczne relacje medialne."
+  },
+  "cta": {
+    "title": "Do\u0142\u0105cz do rundy",
+    "subtitle": "Zbieramy na YC SAFE z 20% dyskontem. Ograniczona alokacja w bie\u017c\u0105cej transzy.",
+    "button": "Poprosi o deck inwestorski",
+    "email_label": "Lub napisz bezpo\u015brednio",
+    "email": "greg@auroramemories.com"
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Aurora Memories O\u00dc. Wszelkie prawa zastrze\u017cone.",
+    "tagline": "Digital Legacy as a Service",
+    "privacy": "Polityka prywatno\u015bci",
+    "terms": "Regulamin"
+  }
+}

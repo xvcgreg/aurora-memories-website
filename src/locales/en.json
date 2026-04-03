@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "product": "Product",
+    "projects": "Projects",
+    "team": "Team",
+    "contact": "Contact",
+    "invest": "Invest Now"
+  },
+  "hero": {
+    "tagline": "Digital Legacy as a Service",
+    "headline": "Preserving memories that matter.",
+    "subheadline": "AI-powered platform transforming how we remember loved ones. Physical memory keys, voice avatars, and digital testaments for the $130B death care industry.",
+    "cta_primary": "Investor Deck",
+    "cta_secondary": "Book a Call"
+  },
+  "stats": {
+    "loi": "19",
+    "loi_label": "Letters of Intent",
+    "market": "$130B",
+    "market_label": "Global Market Size",
+    "partners": "14+",
+    "partners_label": "Funeral Home Partners",
+    "patents": "2",
+    "patents_label": "Patent Applications"
+  },
+  "product": {
+    "title": "The Platform",
+    "subtitle": "A complete ecosystem for preserving and experiencing digital legacy",
+    "memory_key_title": "Physical Memory Key (XQR-MEM\u2122)",
+    "memory_key_desc": "Premium QR-enabled device linking the physical and digital worlds. Placed on memorials, urns, or kept as personal keepsakes. One scan opens a living memory.",
+    "ai_avatar_title": "AI Voice Avatars",
+    "ai_avatar_desc": "Conversational AI recreating the voice and personality of loved ones. Built on RAG architecture ensuring responses stay faithful to real memories, never hallucinated.",
+    "family_council_title": "Family Council",
+    "family_council_desc": "Multi-stakeholder governance for digital legacy. Family members collaboratively manage, curate, and protect shared memories with granular access controls.",
+    "testament_title": "Digital Testament",
+    "testament_desc": "Legally-informed digital will for your online presence. Define what happens to your memories, accounts, and digital assets after you're gone."
+  },
+  "avatar_section": {
+    "title": "Talk to Those Who Matter",
+    "subtitle": "AI voice avatars that preserve the essence of conversation. Every interaction grounded in real memories."
+  },
+  "projects": {
+    "title": "What We're Building",
+    "subtitle": "Multiple revenue streams across B2B2C, B2G, and VIP segments",
+    "b2b2c_title": "B2B2C Platform",
+    "b2b2c_desc": "White-label integration with funeral homes. 20% revenue share model. Already signed 14 LOI with funeral home partners across Poland.",
+    "b2g_title": "B2G Heritage Digitization",
+    "b2g_desc": "Partnerships with municipalities for cultural heritage preservation. 4 B2G LOIs signed, including the Promenade of Stars in Miedzyzdroje \u2014 digitizing 200+ celebrity memorials.",
+    "vip_title": "VIP Ambassador Program",
+    "vip_desc": "Celebrity and public figure partnerships. First confirmed ambassador: Orina Krajewska, actress and daughter of legendary Malgorzata Braunek. More VIPs in advanced talks.",
+    "prototype_title": "Working Prototype",
+    "prototype_desc": "Full-stack AI prototype built and operational. RAG-based conversation engine, voice synthesis, and physical key integration demonstrated to investors and partners."
+  },
+  "team": {
+    "title": "The Founders",
+    "subtitle": "Experienced operators and builders with deep domain expertise",
+    "greg_name": "Grzegorz Ociepka",
+    "greg_role": "Founder & CEO",
+    "greg_bio": "Ex-CTO & Co-COO of Simteract S.A. (public company, 2x \u20ac12M revenue, 70+ employees). Built and sold Coddee via M&A. Deep expertise in AI/ML, SaaS platforms, and Big Data. Architect of Aurora Memories' product and go-to-market strategy.",
+    "wojciech_name": "Wojciech Danilo",
+    "wojciech_role": "Founder & CTO",
+    "wojciech_bio": "Founder of ENSO Inc. \u2014 a venture-backed next-generation programming language company. World-class technical architect specializing in AI/ML infrastructure, systems design, and platform engineering.",
+    "gosia_name": "Malgorzata Spies",
+    "gosia_role": "Founder & COO/CFO",
+    "gosia_bio": "Extensive experience in finance and tax advisory across PL/DACH markets. Expert in large-scale project management, operations, regulatory compliance (GDPR, AI Act, IP), and strategic financial planning.",
+    "andrzej_name": "Andrzej Duda",
+    "andrzej_role": "Founder & CMO/Head of Sales",
+    "andrzej_bio": "26 years in Polish media industry (Discovery, major TV shows). Member of the Polish Filmmakers Association. Achieved 90% LOI conversion rate. Drives the VIP program, church partnerships, and strategic media relationships."
+  },
+  "cta": {
+    "title": "Join the Round",
+    "subtitle": "We're raising on a YC SAFE with 20% discount. Limited allocation in current tranche.",
+    "button": "Request Investor Deck",
+    "email_label": "Or reach out directly",
+    "email": "greg@auroramemories.com"
+  },
+  "footer": {
+    "copyright": "\u00a9 2026 Aurora Memories O\u00dc. All rights reserved.",
+    "tagline": "Digital Legacy as a Service",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
